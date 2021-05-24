@@ -1,6 +1,6 @@
 module github.com/containerssh/structutils
 
-go 1.14
+go 1.16
 
 require (
 	github.com/creasty/defaults v1.5.1
